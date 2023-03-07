@@ -37,6 +37,6 @@ You can check the status of a transaction by calling the **`isConfirmed`** funct
 
 You can also check the number of confirmations for a transaction by calling the **`getConfirmationsCount`** function on the contract, passing in the ID of the transaction you want to check.
 
-## \***\*Credits\*\***
+## **Credits**
 
-This project was built as a part of the Alchemy University Ethereum Bootcamp.
+This project was built by khadni as a part of the Alchemy University Ethereum Bootcamp.
